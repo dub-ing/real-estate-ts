@@ -1,3 +1,4 @@
+import About from "./components/About"
 import Header from "./components/Header"
 import Navbar from "./components/Navbar"
 import Projects from "./components/Projects"
@@ -7,6 +8,7 @@ function App() {
     <div className="w-full overflow-hidden">
       <Header />
       <Projects />
+      <About />
     </div>
   )
 }
