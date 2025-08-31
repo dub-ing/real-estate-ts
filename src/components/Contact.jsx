@@ -2,7 +2,7 @@ function Contact() {
   return (
     <div
       class="text-center p-6 py-20 lg:px-32 w-full overflow-hidden"
-      id="contactus"
+      id="contact"
     >
       <h1 class="text-2xl sm:text-4xl font-bold mb-2 text-center">
         Contact{" "}
